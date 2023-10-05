@@ -1,0 +1,20 @@
+.paragraph {
+  font-size: 30px;
+  color: red;
+  background-color: aqua;
+}
+
+#heading {
+  font-size: 50px;
+  border: 2px red dashed;
+}
+
+b {
+  color: blue;
+  border: 3px red dotted;
+}
+
+img {
+  height: 400px;
+  width: 500px;
+}

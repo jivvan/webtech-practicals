@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE person
+    [
+    <!ELEMENT person (name, address, phone, age, gender)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT gender (#PCDATA)>
+    ]
+ >
+
+ <person>
+    <name>Jivan Parajuli</name>
+    <address>Imadol, Lalitpur</address>
+    <phone>9876543210</phone>
+    <age>21</age>
+    <gender>Male</gender>
+ </person>

@@ -1,0 +1,1 @@
+Write a HTML script containing use of media query for changing the background color of html page to red if the viewport is between 800 pixels to 1200 pixels, changing the background color of the page to yellow if the viewport is between 799 pixels to 500 pixels otherwise if the biewport is less than 499 pixels then the backgorund-color should be changed to green.

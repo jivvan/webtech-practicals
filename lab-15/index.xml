@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+
+<movies>
+    <movie>
+        <name>Seven Samurai</name>
+        <release>1954</release>
+        <director>Akira Kurosawa</director>
+        <description>A samurai answers a village&apos;s request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food. A giant battle occurs when 40 bandits attack the village.</description>
+        <poster href="https://i.etsystatic.com/23647903/r/il/e46965/2582824610/il_570xN.2582824610_sypp.jpg" width="500" height="800"/>
+    </movie>
+    <movie>
+        <name>The Golden Fortress</name>
+        <release>1974</release>
+        <director>Satyajit Ray</director>
+        <description>A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.</description>
+        <poster href="https://m.media-amazon.com/images/M/MV5BMWZlNTk2ZmItYmM3YS00ZTc5LWIxY2MtYzdkZThmNWVmNmUyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg" width="500" height="800"/>
+    </movie>
+    <movie>
+        <name>This Is England</name>
+        <release>2006</release>
+        <director>Shane Meadows</director>
+        <description>A story about a troubled boy growing up in England, set in 1983. He comes across a few skinheads on his way home from school, after a fight. They become his new best friends, even like family. Based on experiences of director Shane Meadows.</description>
+        <poster href="https://flxt.tmsimg.com/assets/p166900_p_v10_ae.jpg"/>
+    </movie>    
+    <movie>
+        <name>Dead Man's Shoes</name>
+        <release>2004</release>
+        <director>Shane Meadows</director>
+        <description>A soldier returns home to his small town and exacts a deadly revenge on the thugs who tormented his dimwitted brother while he was away.</description>
+        <poster href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmnoB9fnM_2OwPIb5-hM2mML0k8VAIj87gO9zoNzhZfo1OJCw" width="500" height="800"/>
+    </movie> 
+</movies>

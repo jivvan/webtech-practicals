@@ -1,0 +1,9 @@
+img {
+  width: 500px;
+  height: 500px;
+  object-fit: fill;
+  border: 5px dotted brown;
+  border-radius: 10px;
+  display: block;
+  margin: 0px auto;
+}

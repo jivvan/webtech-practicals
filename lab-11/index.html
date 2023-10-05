@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="script" href="/script.js" />
+    <title>Form</title>
+  </head>
+  <body>
+    <h1>Fill up the form to register</h1>
+    <form
+      action="#"
+      name="myform"
+      onsubmit="return formvalidate()"
+      method="post"
+    >
+      <div class="formdesign" id="fname">
+        First name: <input type="text" name="fname" />
+        <span class="formerror"></span>
+      </div>
+      <div class="formdesign" id="lname">
+        Last name: <input type="text" name="lname" />
+        <span class="formerror"></span>
+      </div>
+      <div class="formdesign" id="email">
+        Email: <input type="email" name="email" />
+        <span class="formerror"></span>
+      </div>
+      <div class="formdesign" id="pass">
+        Password: <input type="password" name="pass" />
+        <span class="formerror"></span>
+      </div>
+      <div class="formdesign" id="cpass">
+        Conform Password: <input type="password" name="cpass" />
+        <span class="formerror"></span>
+      </div>
+      <div class="formdesign" id="add">
+        Address: <input type="text" name="add" />
+        <span class="formerror"></span>
+      </div>
+      <input type="submit" value="Submit" class="btn" />
+    </form>
+  </body>
+</html>

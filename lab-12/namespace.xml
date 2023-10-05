@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <h:table xmlns:h="http://www.w3.org/TR/html4">
+        <h:tr>
+            <h:td>Cat</h:td>
+            <h:td>Dog</h:td>
+        </h:tr>
+    </h:table>
+    <f:table xmlns:f="https://www.w3schools.com/furniture">
+        <f:name>Cupboard</f:name>
+        <f:width>30</f:width>
+        <f:length>50</f:length>
+        <f:height>100</f:height>
+    </f:table>
+</root>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Form</title>
+  </head>
+  <body>
+    <h1>HTML Form</h1>
+    <form action="#" method="get">
+      <label for="name">Name:</label>
+      <input type="text" placeholder="Enter name" />
+      <br />
+      <br />
+      <label for="address">Address:</label>
+      <input type="text" placeholder="Enter address" />
+      <br />
+      <br />
+      <label for="email">Email:</label>
+      <input type="email" placeholder="Enter email" />
+      <br />
+      <br />
+      <label for="gender">Gender:</label>
+      <br />
+      <label for="gender_male">Male</label>
+      <input type="radio" name="gender" />
+      <label for="gender_female">Female</label>
+      <input type="radio" name="gender" />
+      <label for="gender_other">Other</label>
+      <input type="radio" name="gender" />
+      <br />
+      <br />
+      <label for="cover_letter">Cover Letter:</label>
+      <br />
+      <textarea
+        name="cover_letter"
+        id="cover_letter"
+        cols="30"
+        rows="10"
+      ></textarea>
+      <br />
+      <br />
+      <label for="hobbies">Hobbies:</label>
+      <input type="checkbox" />
+      Singing
+      <input type="checkbox" />
+      Dancing
+      <input type="checkbox" />
+      Playing
+      <br />
+      <br />
+      <label for="job_title">Job Title:</label>
+      <select name="job_title" id="job_title">
+        <option value="software_engineering">Software Engineering</option>
+        <option value="data_engineering">Data Engineering</option>
+        <option value="qa">Quality Assurance</option>
+      </select>
+      <br />
+      <br />
+      <button>Submit</button>
+      <button type="reset">Reset</button>
+    </form>
+  </body>
+</html>

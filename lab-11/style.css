@@ -1,0 +1,15 @@
+.formdesign {
+  padding: 10px;
+  font-size: 25px;
+}
+.formdesign input {
+  padding: 10px;
+  width: 50%;
+}
+.btn {
+  padding: 5px;
+  width: 10%;
+}
+.formerror {
+  color: red;
+}
